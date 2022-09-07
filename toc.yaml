@@ -1,0 +1,21 @@
+---
+toc:
+  properties:
+    subcollection: architecture-framework
+    category: internal
+    audience: internal
+    href: /docs/architecture-framework
+    path: architecture-framework
+    label: Architecture Framework
+
+  entries: 
+  - navgroup: 
+      id: learn
+      topics:
+      - about.md
+      - architecture-framework-taxonomy.md
+
+  - navgroup:
+      id: help
+      topics: 
+      - help.md
