@@ -1,267 +1,298 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1241px" height="721px" viewBox="0 0 1241 721" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Artboard</title>
-    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <text id="Components-in-this-s" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-size="20" font-weight="bold" fill="#000000">
-            <tspan x="36" y="65">Components in this solution</tspan>
-        </text>
-        <text id="Category" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-size="14" font-weight="bold" fill="#000000">
-            <tspan x="91.934" y="124">Category</tspan>
-        </text>
-        <text id="Technology" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-size="14" font-weight="bold" fill="#000000">
-            <tspan x="187" y="124">Technology</tspan>
-        </text>
-        <text id="Application" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="86.412" y="170">Application</tspan>
-        </text>
-        <text id="Data" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="124.64" y="220">Data</tspan>
-        </text>
-        <text id="Compute" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="99.584" y="271">Compute</tspan>
-        </text>
-        <text id="Storage" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="107.288" y="321">Storage</tspan>
-        </text>
-        <text id="Networking" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="85.76" y="371">Networking</tspan>
-        </text>
-        <text id="Security" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="104.424" y="421">Security</tspan>
-        </text>
-        <text id="DevOps" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="107.332" y="472">DevOps</tspan>
-        </text>
-        <text id="Resiliency" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="93.176" y="522">Resiliency</tspan>
-        </text>
-        <text id="Service-management" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="109.22" y="564">Service </tspan>
-            <tspan x="76.748" y="579">management</tspan>
-        </text>
-        <text id="Managed-services" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="49.604" y="618">Managed services</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="187.5" y="144.5" width="134" height="41"></rect>
-        <text id="Mobile" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="198" y="170">Mobile</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="187.5" y="194.5" width="134" height="41"></rect>
-        <text id="Application-integrat" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="198" y="212">Application </tspan>
-            <tspan x="198" y="227">integration</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="187.5" y="245.5" width="134" height="41"></rect>
-        <text id="Bare-metal-servers" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="198" y="263">Bare metal </tspan>
-            <tspan x="198" y="278">servers</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="187.5" y="295.5" width="134" height="41"></rect>
-        <text id="Primary-storage" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="198" y="321">Primary storage</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="187.5" y="345.5" width="134" height="41"></rect>
-        <text id="Enterprise-connectiv" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="198" y="364">Enterprise </tspan>
-            <tspan x="198" y="379">connectivity</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="187.5" y="395.5" width="134" height="41"></rect>
-        <text id="Data-security" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="198" y="421">Data security</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="187.5" y="446.5" width="134" height="41"></rect>
-        <text id="Build-&amp;-test" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="198" y="472">Build &amp; test</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="187.5" y="496.5" width="134" height="41"></rect>
-        <text id="Backup" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="198" y="522">Backup</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="187.5" y="546.5" width="134" height="41"></rect>
-        <text id="Monitoring" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="198" y="571">Monitoring</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="187.5" y="596.5" width="134" height="41"></rect>
-        <text id="Advise" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="198" y="621">Advise</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="330.5" y="144.5" width="134" height="41"></rect>
-        <text id="IoT" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="341" y="170">IoT</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="330.5" y="194.5" width="134" height="41"></rect>
-        <text id="Governance" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="341" y="220">Governance</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="330.5" y="245.5" width="134" height="41"></rect>
-        <text id="Virtual-servers" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="341" y="271">Virtual servers</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="330.5" y="295.5" width="134" height="41"></rect>
-        <text id="Backup" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="341" y="321">Backup</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="330.5" y="345.5" width="134" height="41"></rect>
-        <text id="BYOIP/Edge-Gateways" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="341" y="364">BYOIP/Edge </tspan>
-            <tspan x="341" y="379">Gateways</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="330.5" y="395.5" width="134" height="41"></rect>
-        <text id="Identity-&amp;-access" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="341" y="421">Identity &amp; access</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="330.5" y="446.5" width="134" height="41"></rect>
-        <text id="Delivery-pipeline" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="341" y="472">Delivery pipeline</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="330.5" y="496.5" width="134" height="41"></rect>
-        <text id="Disaster-recovery" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="341" y="522">Disaster recovery</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="330.5" y="546.5" width="134" height="41"></rect>
-        <text id="Logging" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="341" y="571">Logging</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="330.5" y="596.5" width="134" height="41"></rect>
-        <text id="Move" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="341" y="621">Move</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="473.5" y="144.5" width="134" height="41"></rect>
-        <text id="Artificial-intellige" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="484" y="163">Artificial </tspan>
-            <tspan x="484" y="178">intelligence</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="473.5" y="194.5" width="134" height="41"></rect>
-        <text id="Analytics" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="484" y="220">Analytics</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="473.5" y="245.5" width="134" height="41"></rect>
-        <text id="VMware" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="484" y="271">VMware</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="473.5" y="295.5" width="134" height="41"></rect>
-        <text id="Archive" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="484" y="321">Archive</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="473.5" y="345.5" width="134" height="41"></rect>
-        <text id="Load-balancing" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="484" y="371">Load balancing</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="473.5" y="395.5" width="134" height="41"></rect>
-        <text id="Application-security" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="484" y="413">Application </tspan>
-            <tspan x="484" y="428">security</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="473.5" y="446.5" width="134" height="41"></rect>
-        <text id="Code-repository" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="484" y="472">Code repository</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="473.5" y="496.5" width="134" height="41"></rect>
-        <text id="High-availability" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="484" y="522">High availability</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="473.5" y="546.5" width="134" height="41"></rect>
-        <text id="Auditing/tracking" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="484" y="571">Auditing/tracking</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="473.5" y="596.5" width="134" height="41"></rect>
-        <text id="Build" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="484" y="621">Build</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="616.5" y="144.5" width="134" height="41"></rect>
-        <text id="Blockchain" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="627" y="170">Blockchain</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="616.5" y="194.5" width="134" height="41"></rect>
-        <text id="Databases" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="627" y="220">Databases</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="616.5" y="245.5" width="134" height="41"></rect>
-        <text id="Containers" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="627" y="271">Containers</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="616.5" y="295.5" width="134" height="41"></rect>
-        <text id="Data-migration" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="627" y="321">Data migration</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="616.5" y="345.5" width="134" height="41"></rect>
-        <text id="Cloud-Native-Connect" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="627" y="364">Cloud Native </tspan>
-            <tspan x="627" y="379">Connectivity</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="616.5" y="395.5" width="134" height="41"></rect>
-        <text id="Infrastructure-&amp;-end" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="627" y="413">Infrastructure &amp; </tspan>
-            <tspan x="627" y="428">endpoints</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="616.5" y="546.5" width="134" height="41"></rect>
-        <text id="Alerting" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="627" y="571">Alerting</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="616.5" y="596.5" width="134" height="41"></rect>
-        <text id="Manage" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="627" y="621">Manage</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="759.5" y="144.5" width="134" height="41"></rect>
-        <text id="Enterprise-applicati" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="770" y="162">Enterprise </tspan>
-            <tspan x="770" y="177">applications</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="759.5" y="194.5" width="134" height="41"></rect>
-        <text id="Reporting-&amp;-visualiz" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="770" y="212">Reporting &amp; </tspan>
-            <tspan x="770" y="227">visualization</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="759.5" y="245.5" width="134" height="41"></rect>
-        <text id="Cloud-Foundry" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="770" y="271">Cloud Foundry</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="759.5" y="344.5" width="134" height="41"></rect>
-        <text id="Network-Segmentation" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="770" y="363">Network </tspan>
-            <tspan x="770" y="378">Segmentation</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="759.5" y="395.5" width="134" height="41"></rect>
-        <text id="Threat-detection-&amp;-r" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="770" y="413">Threat detection </tspan>
-            <tspan x="770" y="428">&amp; response</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="759.5" y="546.5" width="134" height="41"></rect>
-        <text id="Event-management" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="770" y="564">Event </tspan>
-            <tspan x="770" y="579">management</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="902.5" y="245.5" width="134" height="41"></rect>
-        <text id="Serverless" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="913" y="271">Serverless</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="902.5" y="344.5" width="134" height="41"></rect>
-        <text id="CDN" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="913" y="370">CDN</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="902.5" y="395.5" width="134" height="41"></rect>
-        <text id="Governance,-risk-&amp;-c" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="913" y="413">Governance, risk </tspan>
-            <tspan x="913" y="428">&amp; compliance</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="902.5" y="546.5" width="134" height="41"></rect>
-        <text id="Automated-deployment" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="913" y="564">Automated </tspan>
-            <tspan x="913" y="579">deployment</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="1045.5" y="344.5" width="134" height="41"></rect>
-        <text id="DNS" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="1056" y="370">DNS</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#A8A8A8" x="1045.5" y="546.5" width="134" height="41"></rect>
-        <text id="Management" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="1056" y="571">Management</tspan>
-        </text>
-        <rect id="Rectangle" stroke="#0E62FD" fill="#EDF5FF" x="187.5" y="670.5" width="15" height="15"></rect>
-        <line x1="36.5" y1="654.5" x2="1180.5" y2="654.5" id="Line-12" stroke="#C6C6C6" stroke-linecap="square"></line>
-        <line x1="172.5" y1="638.5" x2="172.5" y2="110.5" id="Line-12" stroke="#C6C6C6" stroke-linecap="square"></line>
-        <text id="Included-in-this-arc" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal" letter-spacing="0.32" fill="#161616">
-            <tspan x="211" y="683">Included in this architecture</tspan>
-        </text>
+<svg width="1145px" height="576px" viewBox="0 0 1145 576" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.500000, 0.000000)">
+            <text id="Category" fill="#000000" fill-rule="nonzero" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-size="14" font-weight="bold">
+                <tspan x="55.434" y="14">Category</tspan>
+            </text>
+            <text id="Technology" fill="#000000" fill-rule="nonzero" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-size="14" font-weight="bold">
+                <tspan x="150.5" y="14">Technology</tspan>
+            </text>
+            <text id="Application" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="49.912" y="60">Application</tspan>
+            </text>
+            <text id="Data" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="88.14" y="110">Data</tspan>
+            </text>
+            <text id="Compute" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="63.084" y="161">Compute</tspan>
+            </text>
+            <text id="Storage" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="70.788" y="211">Storage</tspan>
+            </text>
+            <text id="Networking" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="49.26" y="261">Networking</tspan>
+            </text>
+            <text id="Security" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="67.924" y="311">Security</tspan>
+            </text>
+            <text id="DevOps" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="70.832" y="362">DevOps</tspan>
+            </text>
+            <text id="Resiliency" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="56.676" y="412">Resiliency</tspan>
+            </text>
+            <text id="Service" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="72.72" y="454">Service</tspan>
+            </text>
+            <text id="management" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="40.248" y="469">management</tspan>
+            </text>
+            <text id="Managed-services" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="13.104" y="508">Managed services</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="151" y="34.5" width="134" height="41"></rect>
+            <text id="Mobile" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="161.5" y="60">Mobile</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="151" y="84.5" width="134" height="41"></rect>
+            <text id="Application" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="161.5" y="102">Application</tspan>
+            </text>
+            <text id="integration" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="161.5" y="117">integration</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="151" y="135.5" width="134" height="41"></rect>
+            <text id="Bare-metal" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="161.5" y="153">Bare metal</tspan>
+            </text>
+            <text id="servers" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="161.5" y="168">servers</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="151" y="185.5" width="134" height="41"></rect>
+            <text id="Primary-storage" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="161.5" y="211">Primary storage</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="151" y="235.5" width="134" height="41"></rect>
+            <text id="Enterprise" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="161.5" y="254">Enterprise</tspan>
+            </text>
+            <text id="connectivity" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="161.5" y="269">connectivity</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="151" y="285.5" width="134" height="41"></rect>
+            <text id="Data-security" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="161.5" y="311">Data security</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="151" y="336.5" width="134" height="41"></rect>
+            <text id="Build-&amp;-test" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="161.5" y="362">Build &amp; test</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="151" y="386.5" width="134" height="41"></rect>
+            <text id="Backup" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="161.5" y="412">Backup</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="151" y="436.5" width="134" height="41"></rect>
+            <text id="Monitoring" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="161.5" y="461">Monitoring</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="151" y="486.5" width="134" height="41"></rect>
+            <text id="Advise" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="161.5" y="511">Advise</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="294" y="34.5" width="134" height="41"></rect>
+            <text id="IoT" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="304.5" y="60">IoT</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="294" y="84.5" width="134" height="41"></rect>
+            <text id="Governance" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="304.5" y="110">Governance</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="294" y="135.5" width="134" height="41"></rect>
+            <text id="Virtual-servers" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="304.5" y="161">Virtual servers</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="294" y="185.5" width="134" height="41"></rect>
+            <text id="Backup" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="304.5" y="211">Backup</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="294" y="235.5" width="134" height="41"></rect>
+            <text id="BYOIP/Edge" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="304.5" y="254">BYOIP/Edge</tspan>
+            </text>
+            <text id="Gateways" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="304.5" y="269">Gateways</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="294" y="285.5" width="134" height="41"></rect>
+            <text id="Identity-&amp;-access" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="304.5" y="311">Identity &amp; access</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="294" y="336.5" width="134" height="41"></rect>
+            <text id="Delivery-pipeline" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="304.5" y="362">Delivery pipeline</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="294" y="386.5" width="134" height="41"></rect>
+            <text id="Disaster-recovery" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="304.5" y="412">Disaster recovery</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="294" y="436.5" width="134" height="41"></rect>
+            <text id="Logging" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="304.5" y="461">Logging</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="294" y="486.5" width="134" height="41"></rect>
+            <text id="Move" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="304.5" y="511">Move</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="437" y="34.5" width="134" height="41"></rect>
+            <text id="Artificial" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="447.5" y="53">Artificial</tspan>
+            </text>
+            <text id="intelligence" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="447.5" y="68">intelligence</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="437" y="84.5" width="134" height="41"></rect>
+            <text id="Analytics" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="447.5" y="110">Analytics</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="437" y="135.5" width="134" height="41"></rect>
+            <text id="VMware" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="447.5" y="161">VMware</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="437" y="185.5" width="134" height="41"></rect>
+            <text id="Archive" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="447.5" y="211">Archive</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="437" y="235.5" width="134" height="41"></rect>
+            <text id="Load-balancing" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="447.5" y="261">Load balancing</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="437" y="285.5" width="134" height="41"></rect>
+            <text id="Application" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="447.5" y="303">Application</tspan>
+            </text>
+            <text id="security" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="447.5" y="318">security</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="437" y="336.5" width="134" height="41"></rect>
+            <text id="Code-repository" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="447.5" y="362">Code repository</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="437" y="386.5" width="134" height="41"></rect>
+            <text id="High-availability" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="447.5" y="412">High availability</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="437" y="436.5" width="134" height="41"></rect>
+            <text id="Auditing/tracking" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="447.5" y="461">Auditing/tracking</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="437" y="486.5" width="134" height="41"></rect>
+            <text id="Build" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="447.5" y="511">Build</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="580" y="34.5" width="134" height="41"></rect>
+            <text id="Blockchain" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="590.5" y="60">Blockchain</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="580" y="84.5" width="134" height="41"></rect>
+            <text id="Databases" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="590.5" y="110">Databases</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="580" y="135.5" width="134" height="41"></rect>
+            <text id="Containers" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="590.5" y="161">Containers</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="580" y="185.5" width="134" height="41"></rect>
+            <text id="Data-migration" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="590.5" y="211">Data migration</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="580" y="235.5" width="134" height="41"></rect>
+            <text id="Cloud-Native" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="590.5" y="254">Cloud Native</tspan>
+            </text>
+            <text id="Connectivity" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="590.5" y="269">Connectivity</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="580" y="285.5" width="134" height="41"></rect>
+            <text id="Infrastructure-&amp;" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="590.5" y="303">Infrastructure &amp;</tspan>
+            </text>
+            <text id="endpoints" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="590.5" y="318">endpoints</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="580" y="436.5" width="134" height="41"></rect>
+            <text id="Alerting" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="590.5" y="461">Alerting</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="580" y="486.5" width="134" height="41"></rect>
+            <text id="Manage" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="590.5" y="511">Manage</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="723" y="34.5" width="134" height="41"></rect>
+            <text id="Enterprise" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="733.5" y="52">Enterprise</tspan>
+            </text>
+            <text id="applications" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="733.5" y="67">applications</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="723" y="84.5" width="134" height="41"></rect>
+            <text id="Reporting-&amp;" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="733.5" y="102">Reporting &amp;</tspan>
+            </text>
+            <text id="visualization" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="733.5" y="117">visualization</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="723" y="135.5" width="134" height="41"></rect>
+            <text id="Cloud-Foundry" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="733.5" y="161">Cloud Foundry</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="723" y="234.5" width="134" height="41"></rect>
+            <text id="Network" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="733.5" y="253">Network</tspan>
+            </text>
+            <text id="Segmentation" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="733.5" y="268">Segmentation</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="723" y="285.5" width="134" height="41"></rect>
+            <text id="Threat-detection" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="733.5" y="303">Threat detection</tspan>
+            </text>
+            <text id="&amp;-response" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="733.5" y="318">&amp; response</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="723" y="436.5" width="134" height="41"></rect>
+            <text id="Event" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="733.5" y="454">Event</tspan>
+            </text>
+            <text id="management" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="733.5" y="469">management</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="866" y="135.5" width="134" height="41"></rect>
+            <text id="Serverless" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="876.5" y="161">Serverless</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="866" y="234.5" width="134" height="41"></rect>
+            <text id="CDN" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="876.5" y="260">CDN</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="866" y="285.5" width="134" height="41"></rect>
+            <text id="Governance,-risk" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="876.5" y="303">Governance, risk</tspan>
+            </text>
+            <text id="&amp;-compliance" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="876.5" y="318">&amp; compliance</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="866" y="436.5" width="134" height="41"></rect>
+            <text id="Automated" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="876.5" y="454">Automated</tspan>
+            </text>
+            <text id="deployment" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="876.5" y="469">deployment</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="1009" y="234.5" width="134" height="41"></rect>
+            <text id="DNS" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="1019.5" y="260">DNS</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A8A8A8" x="1009" y="436.5" width="134" height="41"></rect>
+            <text id="Management" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="1019.5" y="461">Management</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#0E62FD" fill="#EDF5FF" fill-rule="nonzero" x="151" y="560.5" width="15" height="15"></rect>
+            <line x1="0" y1="544.5" x2="1144" y2="544.5" id="Line-12" stroke="#C6C6C6" stroke-linecap="square"></line>
+            <line x1="136" y1="528.5" x2="136" y2="0.5" id="Line-12" stroke="#C6C6C6" stroke-linecap="square"></line>
+            <text id="Included-in-this-architecture" fill="#161616" fill-rule="nonzero" font-family="IBMPlexSans, IBM Plex Sans" font-size="12" font-weight="normal">
+                <tspan x="174.5" y="573">Included in this architecture</tspan>
+            </text>
+        </g>
     </g>
 </svg>
