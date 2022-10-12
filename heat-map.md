@@ -28,6 +28,7 @@ If you think the template needs modification, reach out to ???.
 1. Download the template from https://github.ibm.com/cloud-docs/architecture-framework/blob/draft/templates/heat-map-template.drawio.
 2. Open the template in draw.io.
 3. Apply the "included" styling for all components that are part of your architecture. In the template, the **Mobile** box has the styling of an included component.
+   
    a. Select the **Mobile** box.
    b. Go to the **Style** tab and select **Copy Style**.
    c. Select the component box that's included in your architecture.
