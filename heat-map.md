@@ -34,4 +34,5 @@ If you think the template needs modification, reach out to ???.
    c. Select the component box that's included in your architecture.
    d. Go to the **Style** tab and select **Paste Style**.
    e. If Mobile is not part of your architecture, copy the style from an unselected box and paste it into the mobile box.
+
 4. Save and export the image as an SVG file.
