@@ -22,6 +22,11 @@ toc:
       - create-solution.md
 
   - navgroup:
+      id: howto
+      topics:
+      - heat-map.md
+
+  - navgroup:
       id: help
       topics: 
       - help.md
