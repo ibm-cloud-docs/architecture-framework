@@ -11,20 +11,20 @@ subcollection: architecture-framework
 {{site.data.keyword.attribute-definition-list}}
 
 
-# Architecture Framework taxonomy and heatmap
+# Architecture Framework taxonomy and heat map
 {: #taxonomy}
 
 The architecture framework is a technology-agnostic, enterprise architecture approach to create hybrid cloud solutions. The taxonomy ensures that consumers of architectures can quickly discover and use the architecture for their needs.
 {: shortdesc} 
 
-![Architecture framework heatmap](images/heatmap.svg){: caption="Figure 1. Architecture framework heatmap" caption-side="bottom"}
+![Architecture framework heat map](images/heatmap.svg){: caption="Figure 1. Architecture framework heat map" caption-side="bottom"}
 
 ## Aspects
 {: #aspects}
 
-Aspects...  _should we rename to "category"?_
+Aspects...  
 
 ## Domains
 {: #domains}
 
-Domains...  _should we rename to "technology"?_
+Domains...  

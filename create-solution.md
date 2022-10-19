@@ -28,13 +28,13 @@ There are several business and technical assets available to help you through th
 * Checklist of Questions to Ask at the Start of an Engagement
 * Conversations on Framework Assets for an Engagement
 
-The questions match categories on the Framework, so solution traceability can be established. And, the list can be used as a consultative resource to guide discussions about the solution.
+The questions match aspects on the Framework, so solution traceability can be established. And, the list can be used as a consultative resource to guide discussions about the solution.
 
-## Create the heatmap for the solution
+## Create the heat map for the solution
 {: #create-heatmap}
 {: step}
 
-Use the heatmap template to identify the categories and technologies that will be part of your solution.
+Use the heat map template to identify the aspects and domains that will be part of your solution.
 
 ## Decide on solution components
 {: #decide-components}

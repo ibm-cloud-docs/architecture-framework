@@ -17,7 +17,7 @@ subcollection: architecture-framework
 The architecture framework includes five tools to create standard solution architectures. 
 {: shortdesc}
 
-1. Category and technology heatmap (framework) & guiding questions - drive the Solution Requirements and Architecture Decisions
+1. Aspect and domain heat map (framework) & guiding questions - drive the Solution Requirements and Architecture Decisions
 2. Components - identify the available technology or product choices for each domain
 3. Decision tools - help you select the best-fit components based on requirements and constraints
 4. Architecture decision templates - help you document your solution component choices
