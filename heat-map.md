@@ -29,10 +29,10 @@ If you think the template needs modification, reach out to ???.
 2. Open the template in draw.io.
 3. Apply the "included" styling for all components that are part of your architecture. In the template, the **Mobile** box has the styling of an included component.
    
-   a. Select the **Mobile** box.
-   b. Go to the **Style** tab and select **Copy Style**.
-   c. Select the component box that's included in your architecture.
-   d. Go to the **Style** tab and select **Paste Style**.
-   e. If Mobile is not part of your architecture, copy the style from an unselected box and paste it into the mobile box.
+   1. Select the **Mobile** box.
+   2. Go to the **Style** tab and select **Copy Style**.
+   3. Select the component box that's included in your architecture.
+   4. Go to the **Style** tab and select **Paste Style**.
+   5. If Mobile is not part of your architecture, copy the style from an unselected box and paste it into the mobile box.
 
 4. Save and export the image as an SVG file.
