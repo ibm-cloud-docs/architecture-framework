@@ -22,9 +22,9 @@ The architecture framework is a technology-agnostic, enterprise architecture app
 ## Aspects
 {: #aspects}
 
-Aspects...  
+Aspects are architectural areas that need to be considered for any enterprise solution. Some aspects are associated with non-functional requirements like security and resiliency.   
 
 ## Domains
 {: #domains}
 
-Domains...  
+Domains are common capabilities or similar technology functions within an aspect.  
