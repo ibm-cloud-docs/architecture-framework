@@ -12,7 +12,7 @@ subcollection: architecture-framework
 
 
 # Introduction to the architecture framework?
-{: #framework}
+{: #intro}
 
 The architecture framework is a structured, technology agnostic, enterprise architecture approach, inspired by the technology layer of the [TOGAF](https://www.opengroup.org/togaf) model. It can be used as a guide to provide a consistent approach to architect hybrid, multi-cloud end-to-end solutions based on your requirements.
 {: shortdesc}
