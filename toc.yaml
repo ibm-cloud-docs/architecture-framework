@@ -3,7 +3,8 @@ toc:
   properties:
     subcollection: architecture-framework
     category: internal
-    audience: internal
+    audience: solution
+    content-type: solution
     href: /docs/architecture-framework
     path: architecture-framework
     label: Architecture Framework
@@ -13,8 +14,8 @@ toc:
       id: learn
       topics:
       - about.md
+      - intro.md
       - architecture-framework-taxonomy.md
-      - standards.md
   
   - navgroup:
       id: tutorial
@@ -25,6 +26,7 @@ toc:
       id: howto
       topics:
       - heat-map.md
+      - architecture-diagram.md
 
   - navgroup:
       id: help

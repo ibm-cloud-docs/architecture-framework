@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2022
-lastupdated: "2022-09-07"
+  years: 2022, 2023
+lastupdated: "2023-01-06"
 keywords: 
 subcollection: architecture-framework
 
@@ -19,21 +19,15 @@ The architecture framework helps to create standard architectures by providing c
 
 Today, the cloud solution process is time consuming and often there are inconsistent solutions. But, with the architecture framework you can create consistent solutions by leveraging the structure to create reusable, repeatable solution architecture references and guidance.
 
-Pattern
-    : A pattern is a combination of fit-for-purpose components across one or more categories and technologies to meet specific enterprise requirements for cloud workloads.
+Evaluating options and designing a suitable architecture for comprehensive enterprise cloud solutions can be a daunting task. The use of an architecture framework can assist in enhancing the ability to design optimum cloud computing solutions. 
 
-Aspect
-    : Aspects are architectural areas that need to be considered for any enterprise solution. Some aspects are associated with non-functional requirements like security and resiliency. Each aspect can have one or more domains.
+Cloud architecture can be thought of as a multi-dimensional matrix that considers application workloads, cloud deployment models, service management, and design aspects to provide a basis for cloud computing architectural designs that align with business drivers and requirements.  The architecture framework defines a taxonomy of "aspects" and "domains" that are used to develop architectural reference solutions or patterns for specific design requirements and constraints.
 
-Domain
-    : Domains are common capabilities or similar technology functions within an aspect. For example, Enterprise Connectivity and Load Balancers are considered networking technologies.
+## Why use the architecture framework?
+{: #why-use}
 
-Component
-    : Components are product offerings that can be used to satisfy the solution requirements. The component options depend on the target cloud deployment and cloud provider. For example, Direct Link 2.0 and VPC VPN Gateways are Enterprise Connectivity components on the IBM Cloud.
+The architecture framework enables a more consistent approach to solutioning across the breadth of your cloud portfolio, which in turn decreases the solution process time and delivery risks.
 
-## Cloud solutions
-{: #cloud-solutions}
+It also provides the structure to create reusable, repeatable solution architecture references and guidance which leads to the standardization of enterprise cloud solution design and the avoidance of one-of-a-kind snowflake solutions that are expensive to deploy, enhance, and maintain.
 
-Cloud solutions cross many aspects. And for each aspect there are requirements and architecture decisions that need to be assessed. 
-
-![Cloud solutions cross many aspects](images/solutions-cross-aspect.png){: caption="Figure 1. Cloud solutions cross many aspects" caption-side="bottom"}
+The architecture framework can be used as a guide to ensure you have considered applicable requirements for each "aspect" and "domain". After you have identified the applicable requirements, you can evaluate and select the best fit for purpose components for your enterprise cloud solution.

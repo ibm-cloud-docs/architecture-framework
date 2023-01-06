@@ -11,7 +11,7 @@ subcollection: architecture-framework
 {{site.data.keyword.attribute-definition-list}}
 
 
-# Creating design requirements heat map image
+# Creating a design requirements heat map image
 {: #heat-map}
 
 The design requirements heat map helps users understand the high level make up of the architecture at a glance. 
@@ -19,10 +19,15 @@ The design requirements heat map helps users understand the high level make up o
 
 A template of the heat map is available and can be updated in draw.io. The values in the heat map are intended to be the same from architecture to architecture. You update the template to highlight which components apply to your architecture.
 
-If you think the template needs modification, reach out to ???.
-{: note}
+The aspects and domains of the architecture framework can be used as a guide to clarify requirements and determine which domains will be utilized for any solution. Some example questions that will determine the domains for which you need to make component choices are:
 
-## Updating the heat map
+- Do you have requirements for Security, including Network, Data, or Identity and Access Management?
+- What are your Resiliency requirements, including Backup, Disaster Recovery and High Availability? What are the SLA, RTO/RPO requirements?
+- What are your connectivity (Network) requirements? Is dedicated, private connectivity back to your enterprise needed? Is the solution multi-tier? If high availability is needed, will you need a load balancing capability?
+
+Your requirements will determine the domains applicable to the solution and drive the component choices. 
+
+## Using the heat map template
 {: #update-heat-map}
 
 1. Download the template from https://github.ibm.com/cloud-docs/architecture-framework/blob/draft/templates/heat-map-template.drawio.
