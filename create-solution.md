@@ -36,7 +36,7 @@ The questions match aspects on the framework, so solution traceability can be es
 
 The solution architecture heat map is based on the architecture framework and is used to identify the requirements and drive the architecture decisions for the solution. Use the [heat map template](/docs/architecture-framework?topic=architecture-framework-heat-map) to identify the aspects and domains that will be part of your solution.
 
-After it is completed, the solution architecture heat map provides an at-a-glance view of the domains mapped to your solution requirements. For each of the domains highlighted in the solution architecture heat map, an architecture decision needs to be documented in [step 4](#use-architecture-decision-template).
+After it is completed, the solution architecture heat map provides an at-a-glance view of the domains mapped to your solution requirements. For each of the domains highlighted in the solution architecture heat map, an architecture decision needs to be documented in [step 4](#decision-template).
 
 ## Decide on solution components
 {: #decide-components}
