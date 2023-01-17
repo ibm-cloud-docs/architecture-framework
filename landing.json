@@ -1,0 +1,20 @@
+{
+  "title": "Architecture framework",
+  "lastupdated": "2023-01-17",
+  "introduction": "The architecture framework can be used as a guide to provide a consistent approach to architect hybrid, multi-cloud end-to-end solutions based on your requirements.",
+  "section_diagram": {
+    "description": "This is an overall architecture diagram.",
+    "diagram": "/images/architecture-framework-overview.png",
+    "caption": "A something something that does something."
+  },
+  "section_training": [
+    {
+      "title": "Title of training course",
+      "href": "https://developer.ibm.com/solutions/security/courses/"
+    },
+    {
+      "title": "Title of training course",
+      "href": "https://developer.ibm.com/solutions/security/courses/"
+    }
+  ]
+}
