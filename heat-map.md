@@ -14,7 +14,7 @@ subcollection: architecture-framework
 # Creating a design requirements heat map image
 {: #heat-map}
 
-The design requirements heat map helps users understand the high level make up of the architecture at a glance. 
+The solution architecture heat map is based on the architecture framework and is used to identify the requirements and capabilities and drive the architecture decisions for the solution.
 {: shortdesc}
 
 A template of the heat map is available and can be updated in draw.io. The values in the heat map are intended to be the same from architecture to architecture. You update the template to highlight which components apply to your architecture.
@@ -25,7 +25,12 @@ The aspects and domains of the architecture framework can be used as a guide to 
 - What are your Resiliency requirements, including Backup, Disaster Recovery and High Availability? What are the SLA, RTO/RPO requirements?
 - What are your connectivity (Network) requirements? Is dedicated, private connectivity back to your enterprise needed? Is the solution multi-tier? If high availability is needed, will you need a load balancing capability?
 
-Your requirements will determine the domains applicable to the solution and drive the component choices. 
+Your requirements will determine the domains applicable to the solution and drive the component choices.
+
+The solution architecture heat map provides an at-a-glance view of the domains mapped to your solution requirements. The following figure illustrates an example of the aspects and domains associated with common requirements for containerized workloads deployed on a hybrid, multi-cloud environment. For each of the domains highlighted in the solution architecture heat map you will document the architecture decision needs.
+
+![Example heat map](images/example-heatmap.svg){: caption="Figure 1. Example heat map" caption-side="bottom"}
+
 
 ## Using the heat map template
 {: #update-heat-map}
