@@ -34,6 +34,8 @@ The stencils are also organized by type, function, or purpose by using the follo
 - IBM Domains/Industries: Extensions focused on IBM specific non-Cloud domains and industries. Examples: Automotive, Retail, Blockchain, Watson.
 - 3rd Party: Third party products/services. Examples: VMware, BigFix, Akamai.
 
+![Draw.io Tool Tutorial](https://video.ibm.com/embed/recorded/132605612){: video output="iframe" data-script="none" id="ibmmediaplayer1" width="560" height="315" scrolling="no" allowfullscreen webkitallowfullscreen mozAllowFullScreen frameborder="0" style="border: 0 none transparent;"}
+
 ## Installing ibm2beta2.draw.io
 {: #ibm2beta2}
 
