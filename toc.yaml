@@ -26,7 +26,6 @@ toc:
               topics:
               - design-solution.md
               - heat-map.md
-              - components.md
               - decision-tools.md
               - architecture-decisions.md
               - architecture-diagram.md
