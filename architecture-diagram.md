@@ -2,7 +2,7 @@
 
 copyright:
   years: 2023
-lastupdated: "2023-01-06"
+lastupdated: "2023-03-06"
 keywords: 
 subcollection: architecture-framework
 
@@ -16,6 +16,9 @@ subcollection: architecture-framework
 
 Every architecture solution should have an architecture diagram that shows the components of the solution, relationships between components, boundaries between elements, data flow, and so on.
 {: shortdesc}
+
+## Library of stencils and shapes
+{: #library}
 
 IBM Cloud provides a library of stencils and shapes through draw.io. This makes it so that all diagrams are using a standard set of shapes, colors, and flows.
 
@@ -34,6 +37,9 @@ The stencils are also organized by type, function, or purpose by using the follo
 - IBM Domains/Industries: Extensions focused on IBM specific non-Cloud domains and industries. Examples: Automotive, Retail, Blockchain, Watson.
 - 3rd Party: Third party products/services. Examples: VMware, BigFix, Akamai.
 
+## Watch the Draw.io Tool Tutorial
+{: #video-tutorial}
+
 ![Draw.io Tool Tutorial](https://video.ibm.com/embed/recorded/132605612){: video output="iframe" data-script="none" id="ibmmediaplayer1" width="560" height="315" scrolling="no" allowfullscreen webkitallowfullscreen mozAllowFullScreen frameborder="0" style="border: 0 none transparent;"}
 
 ## Installing ibm2beta2.draw.io
@@ -46,7 +52,7 @@ Although there is an online version of draw.io available, this version is curren
 
 For an intro tutorial for using Draw.io, see [Draw.io diagrams, IBM Cloud icons and style with templates](https://secure.video.ibm.com/channel/23586917/video/131812498). 
 
-## Using draw.io to create your diagram
+## Creating your diagram
 {: #drawio-diagram}
 
 To start creating diagrams, open the `ibm2beta2.draw.io` application.
@@ -65,7 +71,7 @@ The icons that are included in the {{site.data.keyword.cloud_notm}} catalog for 
 
 The icons size, color, background, and outline are reflecting the approved Design Language guidance. The icons are 20 x 20 px in a 48 x 48 px square container with white fill and a 1 px outline.
 
-### Exporting to SVG
+## Exporting your diagram to SVG output
 {: #drawio-export}
 
 1. Go to **File** >> **Export as** >> **SVG...**
