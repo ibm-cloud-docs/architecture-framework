@@ -23,4 +23,4 @@ Common constraints that impact the cloud architecture design include, but are no
 
 Decision tools and documentation are used to select the best component to satisfy the requirements mapped to each domain. You should evaluate available components for a specific target deployment and one or more cloud service providers to determine the best-fit-for-purpose component for your solution.
 
-You can use your cloud service providers documentation such as IBM Cloud documentation, available comparison matricies, and decision trees to evaluate the component options. For example, see [Exploring IBM Cloud load balancers](/docs/loadbalancer-service?topic=loadbalancer-service-explore) for an example of a load balancer matrix.
+You can use your cloud service providers documentation such as IBM Cloud documentation, available comparison matricies, and decision trees to evaluate the component options. For example, see [Exploring IBM Cloud load balancers](/docs/loadbalancer-service?topic=loadbalancer-service-explore) for an example of a load balancer matrix. Or, see [Compare platforms](https://cloud.ibm.com/vmware/compare_offerings) for an example of a VMware offerings matrix.
