@@ -25,8 +25,6 @@ In addition, when architecting cloud solutions, consideration needs to be given 
 * Management
 * Interoperability and integration
 
-![matrix diagram](images/matrix.svg){: caption="Figure 1. Matrix view" caption-side="bottom"}
-
 Evaluating options and designing a suitable architecture for comprehensive enterprise cloud solutions can be a daunting task. The use of an architecture framework can assist in enhancing the ability to design optimum cloud computing solutions.
 
 ## What is the architecture framework?
