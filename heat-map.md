@@ -35,7 +35,7 @@ The solution architecture heat map provides an at-a-glance view of the domains m
 ## Using the heat map template
 {: #update-heat-map}
 
-1. Download the template from https://github.ibm.com/cloud-docs/architecture-framework/blob/draft/templates/heat-map-template.drawio.
+1. Download the template from https://github.com/ibm-cloud-docs/architecture-framework/blob/master/templates/heat-map-template.drawio.
 2. Open the template in draw.io.
 3. Apply the "included" styling for all components that are part of your architecture. In the template, the **Mobile** box has the styling of an included component.
    
