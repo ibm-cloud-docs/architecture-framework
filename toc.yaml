@@ -1,0 +1,30 @@
+---
+toc:
+  properties:
+    subcollection: architecture-framework
+    audience: solution
+    content-type: solution
+    category: solution_docs
+    href: /docs/architecture-framework
+    path: architecture-framework
+    description: The architecture framework can be used as a guide to provide a consistent approach to architect hybrid, multi-cloud end-to-end solutions based on your requirements.
+    label: Architecture Framework
+
+  entries: 
+  - navgroup: 
+      id: overview
+      topics:
+      - intro.md
+      - architecture-framework-taxonomy.md
+      - why.md
+  
+  - navgroup:
+      id: howto
+      topics:
+        - topicgroup:
+              label: Designing a solution
+              topics:
+              - design-solution.md
+              - heat-map.md
+              - decision-tools.md
+              - architecture-decisions.md
