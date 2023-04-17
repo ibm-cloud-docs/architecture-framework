@@ -3,18 +3,20 @@
   "lastupdated": "2023-03-03",
   "introduction": "The architecture framework can be used as a guide to provide a consistent approach to architect hybrid, multi-cloud end-to-end solutions based on your requirements.",
   "section_diagram": {
-    "description": "This is an overall architecture diagram.",
+    "description": "Cloud architecture can be thought of as a multi-dimensional matrix.",
     "diagram": "/images/cube.svg",
-    "caption": "A something something that does something."
+    "caption": "Cube diagram that shows the dimensions of a cloud architecture."
   },
   "section_training": [
     {
-      "title": "Title of training course",
-      "href": "https://developer.ibm.com/solutions/security/courses/"
+      "title": "IBM Cloud Professional Architect",
+      "description": "Gain the skills and knowledge required to begin a career as an IBM Cloud Professional Architect.",
+      "href": "https://www.ibm.com/training/path/ibmcloudprofessionalarchitect"
     },
     {
-      "title": "Title of training course",
-      "href": "https://developer.ibm.com/solutions/security/courses/"
+      "title": "IBM Cloud Advanced Architect Concepts",
+      "description": "This badge earner has gained in-depth knowledge of scaling servers and databases, implementing application architecture, using compute options in solutions, designing environments for multicloud deployments, designing resilient solutions and applications, designing for RTO and RPO, disaster recovery, and designing highly available cloud solutions.",
+      "href": "https://www.ibm.com/training/badge/ibm-cloud-advanced-architect-concepts"
     }
   ]
 }
