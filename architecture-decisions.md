@@ -32,7 +32,7 @@ Documenting the architecture decisions is important for several reasons:
 ## Architecture decisions template
 {: #decision-template}
 
-The following template is in markdown mark up. 
+The following template is in markdown markup. 
 
 Listing of components and their purpose in the architecture should include what requirement the component meets, what component was chosen for this architecture, the reasons for the choice, and any alternative choices considered. These alternative choices _should_ be components or modules that have been tested to swap out.
 
