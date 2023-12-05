@@ -17,6 +17,7 @@ subcollection: architecture-framework
 {: #create-solution}
 
 Cloud applications cross many aspects. For each aspect there are requirements and architecture decisions that must be assessed.
+Added line for test.
 {: shortdesc}
 
 You can simplify cloud architecture design and create a fit-for-purpose cloud solution by following five simple steps:
