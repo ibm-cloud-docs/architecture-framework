@@ -1,7 +1,7 @@
 {
-  "title": "Architecture framework",
+  "title": "Architecture design framework",
   "lastupdated": "2023-03-03",
-  "introduction": "The architecture framework can be used as a guide to provide a consistent approach to architect hybrid, multi-cloud end-to-end solutions based on your requirements.",
+  "introduction": "The architecture design framework can be used as a guide to provide a consistent approach to architect hybrid, multi-cloud end-to-end solutions based on your requirements.",
   "section_diagram": {
     "description": "Cloud architecture can be thought of as a multi-dimensional matrix.",
     "diagram": "/images/cube.svg",
