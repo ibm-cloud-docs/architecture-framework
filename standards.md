@@ -3,7 +3,7 @@
 copyright:
   years: 2022
 lastupdated: "2022-09-14"
-keywords: 
+keywords:
 subcollection: architecture-framework
 
 ---
@@ -14,7 +14,7 @@ subcollection: architecture-framework
 # Creating standard solution architectures
 {: #standard-solution}
 
-The architecture framework includes five tools to create standard solution architectures. 
+The {{site.data.keyword.arch_framework}} includes five tools to create standard solution architectures.
 {: shortdesc}
 
 1. Aspect and domain heat map (framework) & guiding questions - drive the Solution Requirements and Architecture Decisions
