@@ -38,7 +38,7 @@ Aspect
     : Aspects are architectural areas that need to be considered for any enterprise solution. Some aspects are associated with nonfunctional requirements like security and resiliency. Each aspect can have one or more domains.
 
 Domain
-    : Domains are common capabilities or similar technology functions within an aspect. For example, Enterprise Connectivity and Load Balancers are considered networking technologies.
+    : Domains are common capabilities or similar technology functions within an aspect. For example, Enterprise Connectivity and Load Balancing are considered networking capabilities.
 
 Component
     : Components are product offerings that can be used to satisfy the solution requirements. The component options depend on the target cloud deployment and cloud provider. For example, Direct Link 2.0 and VPC VPN Gateways are Enterprise Connectivity components on the IBM Cloud.

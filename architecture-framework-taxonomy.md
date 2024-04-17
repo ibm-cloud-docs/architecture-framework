@@ -43,7 +43,7 @@ Each domain then contains a set of component options available to meet solution 
 
 The component options for each domain are determined by the target cloud deployment model and cloud service provider under consideration.
 
-Components are products or technology choices that satisfy the requirements for a specific category. Components options are determined by the target cloud service provider.
+Components are products or technology choices that satisfy the requirements for a specific category. Component options are determined by the target cloud service provider.
 
 ## Example taxomony
 {: #example}
