@@ -7,7 +7,7 @@ toc:
     href: /docs/architecture-framework
     path: architecture-framework
     description: The architecture design framework can be used as a guide to provide a consistent approach to architect hybrid, multi-cloud end-to-end solutions based on your requirements.
-    label: Architecture Framework
+    label: Architecture Design Framework
 
   entries:
   - navgroup:
