@@ -12,9 +12,9 @@ toc:
   - navgroup:
       id: overview
       topics:
+      - why.md
       - intro.md
       - architecture-framework-taxonomy.md
-      - why.md
   - navgroup:
       id: howto
       topics:
