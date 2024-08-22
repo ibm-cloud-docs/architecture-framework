@@ -23,7 +23,7 @@ Every architecture solution should have an architecture diagram that shows the c
 
 {{site.data.keyword.cloud_notm}} provides a library of stencils and shapes to use in draw.io. This makes it so that all diagrams are using a standard set of shapes, colors, and flows.
 
-However, {{site.data.keyword.cloud_notm}}'s approved design tool is Draw.io we have also provided PowerPoint (.ppt) and SVG (.svg) files for your convenience. You can access the [{{site.data.keyword.cloud_notm}} Architecture Stencils](https://github.com/IBM-Cloud/architecture-icons)(: external) in GitHub.
+However, {{site.data.keyword.cloud_notm}}'s approved design tool is Draw.io we have also provided PowerPoint (.ppt) and SVG (.svg) files for your convenience. You can access the [{{site.data.keyword.cloud_notm}} Architecture Stencils](https://github.com/IBM-Cloud/architecture-icons){: external} in GitHub.
 
 IBM stencils and shapes can be of any of the following formats:
 
@@ -44,14 +44,14 @@ The stencils are also organized by type, function, or purpose by using the follo
 ## Installing the stencils and shapes
 {: #ibm-cloud-stencils}
 
-The latest library was built in collaboration with IBM Design Language. You can install the `{{site.data.keyword.cloud_notm}} Architecture Stencils` for draw.io from [architecture-icons](https://github.com/IBM-Cloud/architecture-icons/tree/main/drawio).
+The latest library was built in collaboration with IBM Design Language. You can install the `{{site.data.keyword.cloud_notm}} Architecture Stencils` for draw.io from [architecture-icons](https://github.com/IBM-Cloud/architecture-icons/tree/main/drawio){: external}.
 
 
 
 ## Creating your diagram
 {: #drawio-diagram}
 
-Before you create your diagram, follow the instructions to download the {{site.data.keyword.cloud_notm}} stencils in [Getting stencil libraries compatible with draw.io application](https://github.com/IBM-Cloud/architecture-icons?tab=readme-ov-file#getting-stencil-libraries-compatible-with-drawio-application)(: external).
+Before you create your diagram, follow the instructions to download the {{site.data.keyword.cloud_notm}} stencils in [Getting stencil libraries compatible with draw.io application](https://github.com/IBM-Cloud/architecture-icons?tab=readme-ov-file#getting-stencil-libraries-compatible-with-drawio-application){: external}.
 
 To start creating diagrams, open the draw.io application.
 
@@ -63,7 +63,7 @@ To start creating diagrams, open the draw.io application.
 ### Adding {{site.data.keyword.cloud_notm}} service icons
 {: #service-icons}
 
-The icons that are included in the {{site.data.keyword.cloud_notm}} catalog for each service are not part of the IBM2 library. However, if you want to represent an {{site.data.keyword.cloud_notm}} service with the catalog icon for that service in your architecture diagram @fredl has created a draw.io [{{site.data.keyword.cloud_notm}} catalog](https://l2fprod.github.io/myarchitecture/) library of these icons.
+The icons that are included in the {{site.data.keyword.cloud_notm}} catalog for each service are not part of the IBM2 library. However, if you want to represent an {{site.data.keyword.cloud_notm}} service with the catalog icon for that service in your architecture diagram @fredl has created a draw.io [{{site.data.keyword.cloud_notm}} catalog](https://l2fprod.github.io/myarchitecture/){: external} library of these icons.
 
 1. Add the icon of choice to your palette. 
 
