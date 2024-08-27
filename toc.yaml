@@ -8,15 +8,13 @@ toc:
     path: architecture-framework
     description: The architecture design framework can be used as a guide to provide a consistent approach to architect hybrid, multi-cloud end-to-end solutions based on your requirements.
     label: Architecture Design Framework
-
   entries:
   - navgroup:
       id: overview
       topics:
+      - why.md
       - intro.md
       - architecture-framework-taxonomy.md
-      - why.md
-
   - navgroup:
       id: howto
       topics:
@@ -28,7 +26,6 @@ toc:
               - decision-tools.md
               - architecture-decisions.md
               - architecture-diagram.md
-
   - navgroup:
       id: help
       topics:

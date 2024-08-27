@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2023
-lastupdated: "2023-01-06"
+lastupdated: "2024-08-27"
 keywords:
 subcollection: architecture-framework
 
@@ -45,7 +45,7 @@ The component options for each domain are determined by the target cloud deploym
 
 Components are products or technology choices that satisfy the requirements for a specific category. Component options are determined by the target cloud service provider.
 
-## Example taxomony
+## Example taxonomy
 {: #example}
 
 The following are examples of cloud deployments and cloud service providers.
