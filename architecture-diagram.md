@@ -17,7 +17,7 @@ subcollection: architecture-framework
 Every architecture solution should have an architecture diagram that shows the components of the solution, relationships between components, boundaries between elements, data flow, and so on.
 {: shortdesc}
 
-![Creating Architecture Diagrams Tutorial](https://www.kaltura.com/p/1773841/sp/177384100/embedIframeJs/uiconf_id/27941801/partner_id/1773841?iframeembed=true&entry_id=1_7wjh4y2c){: video output="iframe" data-script="none" id="mediacenterplayer" frameborder="0" width="560" height="315" allowfullscreen webkitallowfullscreen mozAllowFullScreen}
+![Creating Architecture Diagrams Tutorial](https://www.kaltura.com/p/1773841/sp/177384100/embedIframeJs/uiconf_id/27941801/partner_id/1773841?iframeembed=true&entry_id=1_7wjh4y2c){: video output="iframe" data-script="#video-transcript-ui" id="mediacenterplayer" frameborder="0" width="560" height="315" allowfullscreen webkitallowfullscreen mozAllowFullScreen}
 
 #### Video transcript
 {: #video-transcript-ui}
