@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022
-lastupdated: "2024-08-26"
+lastupdated: "2024-10-09"
 keywords:
 subcollection: architecture-framework
 
@@ -29,7 +29,7 @@ Your requirements will determine the domains applicable to the solution and driv
 
 The solution architecture heat map provides an at-a-glance view of the domains mapped to your solution requirements. The following figure illustrates an example of the aspects and domains associated with common requirements for containerized workloads deployed on a hybrid, multi-cloud environment. For each of the domains highlighted in the solution architecture heat map you will document the architecture decision needs.
 
-![Example heat map](images/example-heatmap.svg){: caption="Figure 1. Example heat map" caption-side="bottom"}
+![Example heat map](images/example-heatmap.svg){: caption="Example heat map" caption-side="bottom"}
 
 
 ## Using the heat map template
