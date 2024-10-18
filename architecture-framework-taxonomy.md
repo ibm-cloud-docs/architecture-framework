@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2023
-lastupdated: "2024-08-27"
+lastupdated: "2024-10-09"
 keywords:
 subcollection: architecture-framework
 
@@ -17,7 +17,7 @@ subcollection: architecture-framework
 Technology taxonomy of aspects and domains can be applied to develop end-to-end platform or application architectures on any cloud provider. Enterprise Cloud Solutions need to address requirements across the various aspects and domains.
 {: shortdesc}
 
-![{{site.data.keyword.arch_framework}} heat map](images/heatmap.svg){: caption="Figure 1. {{site.data.keyword.arch_framework}} heat map" caption-side="bottom"}
+![{{site.data.keyword.arch_framework}} heat map](images/heatmap.svg){: caption="{{site.data.keyword.arch_framework}} heat map" caption-side="bottom"}
 
 ## Aspects
 {: #aspects}
@@ -61,4 +61,4 @@ The following table illustrates component options for the Containers domain acro
 | Aspect             | Domain             | IBM Cloud       | AWS         | Azure       | Google Cloud Platform |
 |--------------------|--------------------|-----------------|-------------|-------------|-------------|
 | Compute            | Containers         |IBM Kubernetes Service  \n Red Hat OpenShift on IBM Cloud| Elastic Kubernetes Service  \n Elastic Container Service  \n Red Hat OpenShift on AWS| Azure Kubernetes Service  \n Azure Red Hat OpenShift | Google Kubernetes Engine  \n Red Hat OpenShift on GCP|
-{: caption="Table 1. Component options for Containers domain across various Public Cloud Service Providers" caption-side="bottom"}
+{: caption="Component options for Containers domain across various Public Cloud Service Providers" caption-side="bottom"}
