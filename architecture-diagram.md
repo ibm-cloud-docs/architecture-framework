@@ -2,7 +2,7 @@
 
 copyright:
   years: 2023, 2024
-lastupdated: "2024-10-02"
+lastupdated: "2024-12-03"
 keywords: 
 subcollection: architecture-framework
 
@@ -23,35 +23,103 @@ Every architecture solution should have an architecture diagram that shows the c
 {: #video-transcript-ui}
 {: notoc}
 
-Hello and welcome to the IBM Cloud Docs architecture design framework. 
+0:00 Hello and welcome to the draw.io native icon tutorial today, we're gonna show you how to get the IBM icons into your draw.io.
 
-This page is gonna be the creating and architecture diagram and we will look at a few of the sections within this page. 
+0:08 So if you come over here to the left side and the very bottom, it says more shapes, click on that and come down to networking.
 
-We'll start with the library's stencils and shapes and that will take us into this link for the IBM Cloud architecture stencils. 
+0:15 You'll see there's two IBMs.
 
-So once I click on that, we'll scroll down here and we'll see there's certain sections. The first section we're gonna look at is the draw.io we'll click on the click here to expand and now you'll see in this section we have getting the draw diode desktop application and distent inventory. 
+0:16 The IBM by itself is depreciated as it's version ones.
 
-So let's look at how to get the desktop application. If you click on the jgraph drawio repo site, it will then bring you to the page where you can download the draw.io desktop and we will start from the latest version which is 24.7 0.8. And if you scroll down, you'll now see all the assets for downloading. You've got windows installers and Mac OS installers. And then there's also a couple of opportunities for Linux if that's what you need. And as you scroll down, you can see we go to the previous releases also. 
+0:20 So we want to click on the IBM Cloud.
 
-Now we come back to the draw.io page and we scroll over to the draw.io stencil section. And now here on the left, you can see we've got all the different categories of icons that are available through IBM Cloud. You can see, come down here, we've got devops actors. So let's click on the actors. We'll go here to the raw section and then go up the top and click save page as we'll send that to our desktop. Come back and open that. Now we've opened our draw.io program and we go down to file, open the library and go to that IBM Cloud actors XML library, we saved and open it. Now you'll see on the left hand side, we've got version 1.0 0.1 of IBM Cloud users. So now we've got all the different users that we have in IBM Cloud. 
- 
-So if we go back to the architecture icon section, you'll see this one file called ibm_all_in_one. And so if you click on the ibm_all_in_one file and go back over to the raw button and then save the page to one of your files, then come back to draw.io. And if you open up that file or the new library and it's the all in one. You'll now see that we have all of the IBM icons in one folder. So the top here will be all of the containers and everything is alphabetical. So you could scroll through alphabetically find what you need. So we're just gonna pull a little data center container out here. Then the icons are the same, they're all alphabetical by user. So the first section is users. The second section is A I and then these down here compute, the green ones. So you can pull these icons straight onto this data center box and drop them into the container. Now you'll notice that the icons all now move along with that re retainer, they're in a container, so they will move if you move the data center and you'll see if you pull this back in, you'll see the blue line outlying the data center that's letting you know it is now contained. 
+0:22 Once you highlight that you'll then notice when you come back to your main page that all of the icons are now on the left hand navigation bar by section.
 
-So the next section we're gonna look at is the IBM connectors. So if you click there and open and then we'll save it just like we have in the past. Click on raw, save the page as into your desktop or laptop and then open up draw.io and go to open the library. You'll now see the IBM connectors XML. So we open that up and now here are all of our connectors with the annotations below them. Makes it very easy to find. So let's just pull in a couple of icons here. We'll put in a user and we'll connect these. So we need to go and grab the icon or the connector that we need. And now we can just connect the two icons together with an annotated connection. 
+0:33 So we'll have IBM compute, AI, actors.
 
-Now, Jose has created a de facto table of contents for the icon. So if you click here, you'll now see a table of contents of all the icons that are available in the categories. And it'll show you if there's an alternate name, the stencil occurrence for that icon and then which library it it lives in. So if you wanted to find the IBM cloud stencil, you'll find it in IBM Cloud groups and it'll be so much easier for you to locate them if needed. 
+0:36 We've got some data icons, we got some devops, networking.
 
-We also provide some templates to make it a little easier for you to get started. So if you come down to the 2.0 templates, open up this file, you'll see, we've got four templates, go get started. So the same thing, if you double click on one of these, then you click on the raw, save that page as a file on your workstation and then come on over to draw.io to a file open. This is not a library, it's now a file. So we're gonna just open it as a regular file there. It is we'll open it. Now, you can see we have a template already created that you can get started with. 
+0:40 And as you go down, open each one of these groups, you'll see more and more icons available.
 
-Now, if we go back to the main IBM Cloud stencils page and start scrolling down, you'll see the next section is powerpoint. We've created a powerpoint tool for those of you who want to design diagrams and powerpoint. This section has the actual powerpoint itself and then we also have a video tutorial on how to use it. And there's some good sections in here, especially one on how to make your own icons, which we'll talk about here in a second. So if we click on the link and we download the powerpoint, open it up in powerpoint, you'll see there's a few sections talks about, about color, some examples how to scale some elements, the connectors once again. And then we have all of the icons currently being used in the IBM Cloud that we've created for draw.io. So they're all here for you to use down here to the groups. Now, if you come to this, create your own icons, we've given you colored boxes. And then if you see this link here, if you copy this link and place it into your browser, it will then take you to the IBM Designs UI icon site. So this is all of the icons that IBM has created through their design team. There's a search bar. So if you type in cloud, you'll see a lot of the app icons that are used for cloud, the data cloud icons and then you'll see in the bottom right corner, there is the download button. So you'll just download that button. Go back to the tutorial that was provided and it will talk you through how to change the color of these icons from a black to white and then how to place them into the colored boxes that are provided. 
+0:45 So if you come up to the top to the groups, you can just grab an IBM Cloud group. Come over here, give it a little back fill. Let's put another group in there.
 
-The next section we'll talk about is the scalable vector graphics or the SVGs. Now, this is for the folks that are using Adobe illustrator or sketch or any other design tools that need the dot SVG files. So you can see each one of these folders here has the dot SVG file. And if you click on them over here, on the left hand side, you can actually see what that icon is. And then once again, you can click raw and then download the entire icon and save it to your folder on your desktop and utilize it in any of the design tools that need dot SVGs. 
+0:55 So let's maybe just grab a region.
 
-The next section we're gonna look at is the tools and conventions. So under this, we have format and layout colors and connectors. So if you click on the format and layout, twist it, you'll come down here and talk a little about the theory behind our containers and how we build architecture diagrams here at IBM. And as you keep going down, it'll give you just a little bit more information on how to define and design them under the colors twist we'll show you a color legend showing you what our boxes and icons mean. So the colors are now defined by the colors you see above. And then the second section, they will actually give you the hex numbers for those icons if you need to change or create different color boxes also. And then the third one is connectors which we've gone over a couple of times. But there is kind of a description of what our connectors look like and what they mean by the shapes and colors. 
+0:58 There we go.
 
-The final section in this part is the help and support. So if you have any request for icons that are not available or if you have any issues or any questions, you can always open an issue at github here and head up to the top right section, create a new issue and those will be directed to our team. We can work with you on any request or concerns or questions you might have to help us make the product better. 
+0:58 Grab the region, pull it over, put it in.
 
-Ok, so let's go back to where we started. They're creating an architecture diagram page in Cloud docs and I can see here the library of stencils and shapes we've done that. We've gone through the IBM Cloud architecture stencils and, and get that. Installing the stencils and shapes we've shown you guys how to do that. And then in this section here, it talks about how to create a diagram. So it goes through the steps of creating the diagram, but you'll see there's this other link here that has been provided and this is a link to adding IBM Cloud service icons. So these are the icons that live on IBM's Cloud catalog. These will be specific IBM products or third party products that are on the IBM Cloud. So we'll go ahead and save that as we've done in the past, go to file and say page as it's default of this draw.io but you can put anything you want, come over to draw.io open a library and once again, we find the draw.io and now your service icons populated here on the left and you can see as you hover over them, the name of the icon shows up. But once you pull them in, you'll notice that there is no name attached them unlike the icons we were working with before that have the names coming with it. So come over here to your text section, create your font. IBM uses IBM Plex Sans. We use a 14 point font we position it on the bottom and then come down to spacing and put a minus seven and that will kernel it it up to the bottom of the icon nicely. So there you have it. IBM service icon with the name of the icon. You did it on the bottom. 
+1:02 Now, typically you'd wanna highlight that in the gray.
+
+1:04 So we'll show you how to do that in a little while.
+
+1:06 Then you grab a user icon and let's grab a classic bare metal server and now we can connect them with the connector.
+
+1:14 However, on the very bottom of the left hand side, we've also given you the IBM connectors that follow our standard nomenclature.
+
+1:22 So we'll talk about that in another tutorial.
+
+1:24 But this is where the icons and the connectors both come together.
+
+1:29 As you can see, we grabbed a connector with dots on both ends and connect them both to the icons.
+
+1:36 OK.
+
+1:37 Let's talk about the complimentary icon repo these icons are not currently published in draw.io, will be published at a later time.
+
+1:44 Their complementary icons will depreciate once those are published and they're used in conjunction with the published icon.
+
+1:50 So we go over to the icon repo, the IBM Cloud Stencil repo.
+
+1:54 You can see there's a lot of information on this page.
+
+1:57 And as you scroll down, you see, there's tutorials, there's tools and conventions.
+
+2:01 So this is where you'll find the colors, you'll find connectors, the metadata, any information that you need and some quick start tutorials also.
+
+2:10 So if you click, come back to the top, click on the draw.io and then click on the stencils you'll see on the very bottom here.
+
+2:16 There's a file called not released in draw.io.
+
+2:19 So this is the complementary file of icons that we've created that have not been published by draw.io yet.
+
+2:26 So click on the raw and come over here and then file save page as it'll be saved as a library not released in drew.io so add that to your folder, then it'll come back to draw.io file, come down to open the library from device, find that library, we just saved XML library and now you can see we have 3.0 the IBM icons that have not been released yet.
+
+2:54 So these are complementary to the ones that there.
+
+2:57 So for example, let's pull testing out of here, this testing icon in devops.
+
+3:01 And if you go to devops, you'll see that that testing icon has not yet been published natively to draw.io.
+
+3:07 So hence, we're providing you guys some additional icons that have not been published yet.
+
+3:13 So you can see these are all alphabetical, starting with the groups and then moving through the different types of icons all grouped by color and alphabetical.
+
+3:25 So let's talk about the search feature, top left corner of the nav bar, you'll see the search shapes and this will now work.
+
+3:31 The search will work on both the complementary and the native icons.
+
+3:38 Thanks to a lot of work done by my coworker Jose Monge.
+
+3:42 So if you come here, let's search on the complimentary icons we'll put in wifi router.
+
+3:48 And as you see, there's the wifi router showing up.
+
+3:51 And then if we come down to the native icons, let's search for the Container Registry and as you can see type in Container Registry and it shows up.
+
+4:01 So you need to look for the square mono colored boxes.
+
+4:04 Those are the IBM icons.
+
+4:06 Thanks again for your time and I hope this native draw.io IBM icons is very helpful to you.
+
+4:13 It's taken a lot of time and a lot of our work by a lot of people to make this happen.
+
+4:17 I will keep you posted on when the second set of complementary icons will be published.
+
+4:21 So keep an eye out for that.
+
+4:23 And thanks again.
 
 
 ## Library of stencils and shapes
