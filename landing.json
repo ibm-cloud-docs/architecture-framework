@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": "2",
   "title": "Architecture design framework",
   "introduction": "The architecture design framework can be used as a guide to provide a consistent approach to architect hybrid, multi-cloud end-to-end solutions based on your requirements.",
   "section_highlights": [
