@@ -1,22 +1,43 @@
 {
+  "version": 2,
   "title": "Architecture design framework",
-  "lastupdated": "2023-03-03",
   "introduction": "The architecture design framework can be used as a guide to provide a consistent approach to architect hybrid, multi-cloud end-to-end solutions based on your requirements.",
-  "section_diagram": {
-    "description": "Cloud architecture can be thought of as a multi-dimensional matrix.",
-    "diagram": "/images/cube.svg",
-    "caption": "Cube diagram that shows the dimensions of a cloud architecture."
+  "section_topics": {
+    "links": [
+      {
+        "title": "Why use the Architecture Design Framework?",
+        "href": "/docs/architecture-framework?topic=architecture-framework-why-use-framework"
+      },
+      {
+        "title": "Introduction to the Architecture Design Framework",
+        "href": "/docs/architecture-framework?topic=architecture-framework-intro"
+      },
+      {
+        "title": "Designing a cloud solution by using the Architecture Design Framework",
+        "href": "/docs/architecture-framework?topic=architecture-framework-create-solution"
+      },
+      {
+        "title": "Documenting your architecture decisions",
+        "href": "/docs/architecture-framework?topic=architecture-framework-decision-template"
+      },
+      {
+        "title": "Creating an architecture diagram",
+        "href": "/docs/architecture-framework?topic=architecture-framework-architecture-diagram"
+      }
+    ]
   },
-  "section_training": [
+  "section_highlights": [
     {
       "title": "IBM Cloud Professional Architect",
       "description": "Gain the skills and knowledge required to begin a career as an IBM Cloud Professional Architect.",
-      "href": "https://www.ibm.com/training/path/ibmcloudprofessionalarchitect"
+      "href": "https://www.ibm.com/training/path/ibmcloudprofessionalarchitect",
+      "type": "training"
     },
     {
       "title": "IBM Cloud Advanced Architect Concepts",
       "description": "This badge earner has gained in-depth knowledge of scaling servers and databases, implementing application architecture, using compute options in solutions, designing environments for multicloud deployments, designing resilient solutions and applications, designing for RTO and RPO, disaster recovery, and designing highly available cloud solutions.",
-      "href": "https://www.ibm.com/training/badge/ibm-cloud-advanced-architect-concepts"
+      "href": "https://www.ibm.com/training/badge/ibm-cloud-advanced-architect-concepts",
+      "type": "training"
     }
   ]
 }
